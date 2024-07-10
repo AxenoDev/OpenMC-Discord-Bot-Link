@@ -1,2 +1,0 @@
-# bot-principal
-Bot principale
